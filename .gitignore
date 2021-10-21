@@ -11,7 +11,7 @@ target/
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files 
+# Package Files
 *.jar
 *.war
 *.nar
@@ -34,3 +34,4 @@ hs_err_pid*
 HELP.md
 mvnw
 mvnw.cmd
+target/classes/application.properties
