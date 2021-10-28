@@ -1,4 +1,7 @@
 ## Java Cloud: Recipe Worker 
+The video tutorial for this repository can be found here: 
+https://youtu.be/5z0AO2CM9Cs
+
 This folder holds all the code for the Java Spring Boot version of the Camunda Cloud Worker. As client implementation we have used the spring-zeebe dependency. You can find the GitHub repository right [here](https://github.com/camunda-community-hub/spring-zeebe).
 
 This Worker is processing the service task in the process diagram below:
